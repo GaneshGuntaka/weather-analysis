@@ -79,7 +79,7 @@ pip install pandas numpy matplotlib
 ```
 
 Author:
-### **K L Chandra Varma**
-### **kandulalohithchandravarma@gmail.com**
+### **Guntaka Sai Ganesh Reddy**
+### **ganeshreddy7721@gmail.com**
 
 
